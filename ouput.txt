@@ -1,0 +1,57 @@
+The minimum salary is: 1100
+The maximum salary is: 51000
+
+Employees who is teaching Maths
+  Akki
+  Ram
+  Sri
+
+Sorted database according to salary:------
+  (6, 'Sri', 'Maths', 1100)
+  (1, 'Akki', 'Maths', 2000)
+  (3, 'Swapna', 'DBMS', 4000)
+  (2, 'kavitha', 'physics', 5000)
+  (4, 'Ramya', 'C', 10000)
+  (5, 'ram', 'Maths', 51000)
+
+Employees name starts with R:--------
+  Ramya
+  Ram
+
+Employees whose salary is b/w 1000 and 5000
+  Sri   1100
+  Akki   2000
+  Swapna   4000
+  kavitha   5000
+
+Employees whose id's are even
+  6 --> Sri   1100
+  2 --> kavitha   5000
+  4 --> Ramya   10000
+
+Count Vowels in each employee Name
+  {'Sri': 1, 'Akki': 2, 'Swapna': 2, 'kavitha': 3, 'Ramya': 2, 'ram': 1}
+
+Reverse the characters of subjects and displaying them--------
+  Maths ---> shtaM
+  Maths ---> shtaM
+  DBMS ---> SMBD
+  physics ---> scisyhp
+  C ---> C
+  Maths ---> shtaM
+
+Printing name in lowercase and subject in uppercase--------
+  sri   MATHS
+  akki   MATHS
+  swapna   DBMS
+  kavitha   PHYSICS
+  ramya   C
+  ram   MATHS
+
+User Id Generation-------
+  Sri_6
+  Akki_1
+  Swapna_3
+  kavitha_2
+  Ramya_4
+  ram_5
